@@ -1,4 +1,4 @@
-Nombre
-Edad
-Juegos actuales
-Juegos favoritos
+Nombre: Zunammi Coeto
+Edad: 19 años
+Juegos actuales: Among Us
+Juegos favoritos: Among us
