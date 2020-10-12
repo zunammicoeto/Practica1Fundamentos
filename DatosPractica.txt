@@ -2,5 +2,5 @@ Nombre: Zunammi Coeto
 Edad: 19 años
 Juegos actuales: Among Us
 Juegos favoritos: Among us
-Carrera
-Especialidad
+Carrera: Ingeniería Mécanica
+Especialidad: Manufactura
